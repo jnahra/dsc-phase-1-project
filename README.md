@@ -1,4 +1,4 @@
-# Why-Microsoft-Should-Tap-into-Its-Gaming-IP-to-Open- a-Profitable-Movie-Studio
+# Why-Microsoft-Should-Tap-into-Its-Gaming-IP-to-Open-a-Profitable-Movie-Studio
 
 Our repository uses exploratory data analysis in order to determine how to create a profitable movie studio for Microsoft by maximizing Return on Investment (ROI).
 
