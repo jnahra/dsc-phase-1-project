@@ -45,11 +45,30 @@ When the data frame was cross referenced against a list of video game movies tha
 
 ### Gaming genres align with top profitable genres
 
+For genre, weighted mean ROI measure was used, which gives more weight to films with larger budgets and revenue. This was felt to be appropraite given the potential for smaller sample sizes when grouping by genre.
+
+Only genres with more than five (5) movies in each genre were used in order to group these categories together. this allowed more weight to larger films using the weighted ROI rather than giving more weight to smaller films with high ROIs using mean ROI, since for this case analysis a large film budget would most likely be used.
+
+![Top_10_Genres_by_Weighted_ROI](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/Top10_Genre_Weighted_ROI.jpeg)
+
 ### Films of at least two hours tend to perform better
+
+Next, the runtime data was analyzed against mean ROI in order to determine if any trends could be established between run time and ROI returned. This data was grouped into bins of 15 minute increments and it was determined films of at least two (2) hours appear to have a higher ROI. Also interesting to note that the ROI of movies approaching three hours are also high ROI.
+
+![Mean_ROI_vs_Runtime](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/Mean_ROI_Runtime.jpeg)
 
 ### Higher ratings lead to higher profits
 
+The next variable explored was if different ratings can help increase mean ROI. Ratings, measured out of ten (10), were grouped into bins and plotted against the mean ROI. It was determined that ratings greater than 6 yielded higher mean ROI than the other bins.
+
+![Mean_ROI_vs_Rating](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/Mean_ROI_Rating.jpeg)
+
 ### Profitable movies have greater global appeal
 
+Analysis was performed for the most profitable and the most unprofitable movies. It was determined that the difference between the two was their domestic revenue share. More profitable movies tended to have a lower domestic revenue share, indiciating that more of their revenue came from international sources.
+
+![Top100_by_ROI](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/top100_byROI.png)
+
+## Based on the analysis performed, we recommend creating video game movies aligning with current successful movie genres. Movies of at least two hours length appear to be the optimal runtime to achieve the highest possible ROI. Higher rated films also performed better at the box office so quality of the film must also be considered. Finally, international markets should also be kept in mind for better performing films.
 
 ## Presentation is available as [PDF](https://github.com/albertcchen/dsc-phase-1-project/blob/main/presentation.pdf)
