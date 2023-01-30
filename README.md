@@ -41,6 +41,8 @@ Data frame was further filtered in order to select movies that had a production 
 
 When the data frame was cross referenced against a list of video game movies that were released during the same time frame, the high ROI demonstrates success in this genre of movies.
 
+![Video Game Movies vs. ROI](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/videogame_movies_roi.png)
+
 ### Gaming genres align with top profitable genres
 
 ### Films of at least two hours tend to perform better
