@@ -1,0 +1,3 @@
+*.db
+.ipynd_checkpoints
+.DS_Store
