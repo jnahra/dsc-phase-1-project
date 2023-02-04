@@ -39,7 +39,7 @@ Data frame was further filtered in order to select movies that had a production 
 
 ### Precedent for successful video game movies
 
-The data frame was cross referenced against a list of video game movies that were released during the same time frame. These movies exhibited solid ROI, dmonstrating the potential for success for other video game movies.
+The data frame was cross referenced against a list of video game movies that were released during the same time frame. These movies exhibited solid ROI, demonstrating the potential for success for other video game movies.
 
 ![Video Game Movies vs. ROI](https://github.com/albertcchen/dsc-phase-1-project/blob/main/Graphs/videogame_movies_roi.png)
 
